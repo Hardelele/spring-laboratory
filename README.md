@@ -18,8 +18,8 @@
  
 </beans>
 ```
-###### `<bean .../>` 
-> it's a main XML tag in Spring. You shoold use it for include your class inside of container.
+###### <bean .../> 
+> `<bean .../>` it's a main XML tag in Spring. You shoold use it for include your class inside of container.
 ###### attributes:
 - id = "..."
 - class = "..."
