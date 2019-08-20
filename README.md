@@ -18,7 +18,9 @@
  
 </beans>
 ```
-###### <bean .../> attributes:
+###### `<bean .../>` it's a main XML tag in Spring. You shoold use it for include your class inside of container.
+>
+###### attributes:
 - id = "..."
 - class = "..."
 - factory-method = "..."
