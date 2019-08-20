@@ -27,7 +27,7 @@
 - scope = "..." // Set of values: singleton, prototype, request, session, global-session; More: Spring in action p.80
 > XML has a single tag `<bean .../>`, and also has a double `<bean ...> ... </bean>` 
 ###### <constructor-arg .../>
-> `<constructor-arg .../>` used between double tags `<bean ...> ... </bean>` for include values or  to the constructor
+> `<constructor-arg .../>` used between double tags `<bean ...> ... </bean>` for include values or ref to the constructor
 ###### attributes:
 - value = "..."
 - ref = "..."
