@@ -1,5 +1,8 @@
 # Spring Handbook
-## XML code example:
+## Description
+...
+## XML Helper
+###### Сode example:
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 
@@ -12,3 +15,8 @@
  
 </beans>
 ```
+###### <bean ... /> attributes:
+- id = "..."
+- class = "..."
+- factory-method = "..."
+- scope = "..." // Set of values: singleton, prototype, request, session, global-session; More: Spring in action p.80
