@@ -18,8 +18,9 @@
  
 </beans>
 ```
-###### <bean ... /> attributes:
+###### <bean .../> attributes:
 - id = "..."
 - class = "..."
 - factory-method = "..."
 - scope = "..." // Set of values: singleton, prototype, request, session, global-session; More: Spring in action p.80
+> XML has a single tag `<bean .../>`, and also has double `<bean ...> ... <bean />` 
