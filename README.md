@@ -1,6 +1,9 @@
 # Spring Handbook
 ## Description
-...
+###### XML Helper:
+* Beans
+- Example of <beans> namespace.
+- Tag <bean />: attributes and elements.
 ## XML Helper
 ###### Сode example:
 ```
