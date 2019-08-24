@@ -1,5 +1,5 @@
 # Spring Handbook
 ## Description
-1. XML Helper: [xml/xml-helper.md](https://github.com/Hardelele/Spring-Handbook/blob/master/xml/xml-helper.md).
+1. XML Helper: [Spring-Handbook/xml/xml-helper.md](https://github.com/Hardelele/Spring-Handbook/blob/master/xml/xml-helper.md).
 > There i'll be published brief reference everything about Spring XML tags.
 2. Spring Helper: [spring/spring-helper.md](https://github.com/Hardelele/Spring-Handbook/blob/master/spring/spring-helper.md).
