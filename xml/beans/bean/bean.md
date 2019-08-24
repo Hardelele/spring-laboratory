@@ -1,3 +1,8 @@
+## Navigation
+[Go back to xml-helper.md](https://github.com/Hardelele/Spring-Handbook/blob/master/xml/xml-helper.md)
+1. Tag <beans ... />: [beans/bean/bean.md](https://github.com/Hardelele/Spring-Handbook/blob/master/xml/beans/bean/bean.md)
+## Content:
+Any description...
 ###### <bean .../> 
 > `<bean .../>` it's a main XML tag in Spring. You shoold use it for include your class inside of container.
 ###### attributes:

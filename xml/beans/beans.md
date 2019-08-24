@@ -1,4 +1,3 @@
-#<Beans ... />
 ## Navigation
 [Go back to xml-helper.md](https://github.com/Hardelele/Spring-Handbook/blob/master/xml/xml-helper.md)
 1. Tag <bean ... />: [beans/bean/bean.md](https://github.com/Hardelele/Spring-Handbook/blob/master/xml/beans/bean/bean.md)
